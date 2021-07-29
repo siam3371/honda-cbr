@@ -1,0 +1,15 @@
+/* google fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+body {
+  font-family: "Poppins", sans-serif !important;
+}
+.bg-header {
+  background-color: #264653;
+}
+
+.btn {
+  background-color: #e76f51 !important;
+}
+.honda-bike-collection {
+  color: #e76f51;
+}
